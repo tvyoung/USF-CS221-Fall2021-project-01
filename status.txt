@@ -1,0 +1,3 @@
+Vicki Young - Project 1
+
+the program works as required. it compiles/runs and the output matches the correct format. 
